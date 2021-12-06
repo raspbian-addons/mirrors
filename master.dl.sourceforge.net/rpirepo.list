@@ -1,1 +1,1 @@
-deb https://master.dl.sourceforge.net/project/raspbian-addons/debian/ /
+deb https://master.dl.sourceforge.net/project/raspbian-addons/debian precise main

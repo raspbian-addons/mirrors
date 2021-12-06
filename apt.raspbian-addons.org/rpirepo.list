@@ -1,1 +1,1 @@
-deb https://apt.raspbian-addons.org/debian/ /
+deb https://apt.raspbian-addons.org/debian precise main
